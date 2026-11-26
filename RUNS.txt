@@ -1,0 +1,54 @@
+===== part1_references.Main.txt =====
+INPUT (demo data):
+
+OUTPUT:
+After first.value=10: 10, 10
+After second.value=20: 20, 20
+After mutation in method: 99, 99
+After local reassignment: 99, 99
+Same object: true
+
+
+===== part2_library.Main.txt =====
+INPUT (demo data):
+1
+The Hobbit
+Tolkien
+1937
+310
+n
+2
+3
+4
+Hobbit
+5
+1937
+0
+
+OUTPUT:
+1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: Title: Author: Year: Pages: Continue? (Y/N): 1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: 1. The Hobbit
+Author: Tolkien
+Year: 1937
+Pages: 310
+Estimated reading hours (30 pages/hour): 10.333333333333334
+Notes: 
+1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: Sorted by year.
+1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: Title contains: 1. The Hobbit
+Author: Tolkien
+Year: 1937
+Pages: 310
+Estimated reading hours (30 pages/hour): 10.333333333333334
+Notes: 
+1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: Year: 1. The Hobbit
+Author: Tolkien
+Year: 1937
+Pages: 310
+Estimated reading hours (30 pages/hour): 10.333333333333334
+Notes: 
+1 Add | 2 Print | 3 Sort by year | 4 Find title | 5 Find year | 0 Exit
+Choose: 
